@@ -19,6 +19,7 @@ I am coding for a Visual Studio.
 ---
 ### --- CODE ---
 ###### HTML code
+
     `<header class="header">
         <div class="container">
             <div class="header__inner">
@@ -34,6 +35,7 @@ I am coding for a Visual Studio.
             </div>
         </div>
     </header>`
+    
 ###### CSS code
 
 `.container {
