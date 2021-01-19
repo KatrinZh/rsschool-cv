@@ -19,7 +19,7 @@ I am coding for a Visual Studio.
 ---
 ### --- CODE ---
 ###### HTML code
-    "<header class="header">
+    `<header class="header">
         <div class="container">
             <div class="header__inner">
                 <div class="header__logo">MoGo</div>
@@ -33,18 +33,16 @@ I am coding for a Visual Studio.
                 </nav>
             </div>
         </div>
-    </header>"
+    </header>`
 ###### CSS code
-`
-.container {
 
+`.container {
     width: 100%;
     max-width: 1230px;
     padding: 0 15px;
     margin: auto ;
   }
- 
-.header{
+  .header{
     width: 100%;
     position: absolute;
     top: 0;
