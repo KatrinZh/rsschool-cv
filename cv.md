@@ -35,16 +35,16 @@ I am coding for a Visual Studio.
         </div>
     </header>"
 ###### CSS code
-`.container {
+`
+.container {
 
     width: 100%;
     max-width: 1230px;
     padding: 0 15px;
     margin: auto ;
-  }`
-  
-  
-`.header{
+  }
+ 
+.header{
     width: 100%;
     position: absolute;
     top: 0;
